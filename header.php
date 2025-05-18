@@ -15,11 +15,11 @@ if(isset($message)){
 
     <div class="flex">
 
-        <a href="home.php" class="logo">flowers.</a>
+        <a href="index.php" class="logo">flowers.</a>
 
         <nav class="navbar">
             <ul>
-                <li><a href="home.php">home</a></li>
+                <li><a href="index.php">home</a></li>
                 <li><a href="#">pages +</a>
                     <ul>
                         <li><a href="about.php">about</a></li>

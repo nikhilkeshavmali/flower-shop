@@ -33,7 +33,7 @@ if(!isset($user_id)){
 
 <section class="heading">
     <h3>about us</h3>
-    <p> <a href="home.php">home</a> / about </p>
+    <p> <a href="index.php">home</a> / about </p>
 </section>
 
 <section class="about">

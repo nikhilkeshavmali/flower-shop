@@ -70,7 +70,7 @@ if(isset($_GET['delete_all'])){
 
 <section class="heading">
     <h3>your wishlist</h3>
-    <p> <a href="home.php">home</a> / wishlist </p>
+    <p> <a href="index.php">home</a> / wishlist </p>
 </section>
 
 <section class="wishlist">

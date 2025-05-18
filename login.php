@@ -34,7 +34,7 @@ if(isset($_POST['submit'])){
             if($user['password'] == md5($pass)){
                  $_SESSION['user_id'] = $user['id'];
                 $_SESSION['user_name'] = $user['name'];
-                header('location:home.php');
+                header('location:index.php');
                 exit();
             }
         }
